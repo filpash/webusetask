@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb4ef4bb-2cdf-41b6-a683-60069fdc4cf3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/client/src/components/Landing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Note.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/NoteEditor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/NotesApp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/NotesGrid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Profile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/UserFunctions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client" beforeDir="false" afterPath="$PROJECT_DIR$/client" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YwTFnQJJNO6O28w0IJMsXwNpm1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Programming/webtask-2" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb4ef4bb-2cdf-41b6-a683-60069fdc4cf3" name="Default Changelist" comment="" />
+      <created>1583852556101</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583852556101</updated>
+      <workItem from="1583852558217" duration="10014000" />
+      <workItem from="1583902122691" duration="24833000" />
+      <workItem from="1583945366454" duration="23000" />
+      <workItem from="1583945495761" duration="6000" />
+      <workItem from="1583946839637" duration="1169000" />
+      <workItem from="1584068004619" duration="3885000" />
+      <workItem from="1584079961499" duration="3132000" />
+      <workItem from="1584101125152" duration="9171000" />
+      <workItem from="1584116939966" duration="27000" />
+      <workItem from="1584119303950" duration="4643000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="600" y="238" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584106595585">
+      <screen x="0" y="0" width="1920" height="1166" />
+    </state>
+    <state x="600" y="238" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.116.1440.866/0.0.1920.1166@0.0.1920.1166" timestamp="1584106595585" />
+    <state x="2370" y="293" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.116.1440.866/0.0.1920.1166@1920.116.1440.866" timestamp="1583935945119" />
+    <state x="667" y="249" key="FileChooserDialogImpl" timestamp="1584125978959">
+      <screen x="0" y="0" width="1920" height="1166" />
+    </state>
+    <state x="667" y="249" key="FileChooserDialogImpl/1920.116.1440.866/0.0.1920.1166@0.0.1920.1166" timestamp="1584125978959" />
+    <state x="2420" y="301" key="FileChooserDialogImpl/1920.116.1440.866/0.0.1920.1166@1920.116.1440.866" timestamp="1583903919289" />
+    <state x="634" y="312" key="run.anything.popup" timestamp="1584069760561">
+      <screen x="0" y="0" width="1920" height="1166" />
+    </state>
+    <state x="634" y="312" key="run.anything.popup/1920.116.1440.866/0.0.1920.1166@0.0.1920.1166" timestamp="1584069760561" />
+  </component>
+</project>
